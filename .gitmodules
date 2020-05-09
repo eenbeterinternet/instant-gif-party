@@ -1,0 +1,3 @@
+[submodule "beatdetektor"]
+	path = beatdetektor
+	url = https://github.com/cjcliffe/beatdetektor.git
